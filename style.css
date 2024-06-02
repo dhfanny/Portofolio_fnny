@@ -1,5 +1,5 @@
 body {
-  background-color: #F3EEEA;
+  background-color: #F5F5F5;
 }
 
 *{
@@ -15,10 +15,10 @@ body {
     letter-spacing: .4px;
   }
   :root{
-    --color-black: #776B5D;
-    --color-white: #F3EEEA;
-    --color-dark: #B2A59B;
-    --color-dark-variant: #776B5D;  
+    --color-black: #888888;
+    --color-white: #F5F5F5;
+    --color-dark: #706C61;
+    --color-dark-variant: #888888;  
   
     --transition: .4s ease;
   }
@@ -47,7 +47,7 @@ body {
   }
 
   .header-left img {
-    border-radius: 50%;
+    border-radius: 70%;
   }
   .heading{
     text-align: center;
